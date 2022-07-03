@@ -1,0 +1,10 @@
+{
+    "Alt-d": "command:definition",
+    "Alt-f": "command:format",
+    "Alt-k": "command:hover",
+    "Alt-o": "command:vsplit",
+    "Alt-p": "command:hsplit",
+    "Alt-r": "command:references",
+    "Alt-t": "command:tree",
+    "CtrlSpace": "command:lspcompletion",
+}
